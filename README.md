@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hi everyone,
+This is Sasanka's repository.
